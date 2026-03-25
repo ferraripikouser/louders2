@@ -1,3 +1,3 @@
 # louders2
 Nexus Loader filles 
-тут будут выложенны файлы NexusLoadr
+тут будут выложенны файлы NexusLoader
