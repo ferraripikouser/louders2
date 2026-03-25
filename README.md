@@ -1,4 +1,3 @@
 # louders2
-Nexus Loader filles передаю всем привет!
-хочу
-пожелать говно
+Nexus Loader filles 
+тут будут выложенны файлы NexusLoadr
